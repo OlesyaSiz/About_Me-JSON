@@ -1,0 +1,21 @@
+{
+  "name":"Olesya",
+  "surname":"Tsobkalo",
+  "position":"QA Engineer",
+  "phone": 375255145034,
+  "email":"olesyasiz@bk.ru",
+  "country":"Belarus",
+  "city":"Minsk",
+  "education":"Russian State Social University",
+  "speciality":"jurisprudence",
+  "course":"Vadim Ksendzov's author's course on software testing",
+  "skills": [
+      "Postman","HTML","CSS","JSON","XML","Charles","Test design techniques","Software testing theory","SQL","Jira","Http"],
+  "about me": [
+    {"I like to look for a way out of difficult situations":"true"},
+    {"sociable":"true"},
+    {"I can work in a team":"true"},
+    {"I like to develop myself":"true"}
+      ]
+}
+ 
